@@ -1,0 +1,3 @@
+C:/Users/janhr/Desktop/Svašta/IV3/Minesweeper/cmake-build-debug/CMakeFiles/Minesweeper.dir
+C:/Users/janhr/Desktop/Svašta/IV3/Minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/janhr/Desktop/Svašta/IV3/Minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

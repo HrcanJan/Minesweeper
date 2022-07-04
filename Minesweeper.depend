@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574551134 source:c:\users\janhr\onedrive\desktop\svašta\iv3\minesweeper\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1615648331 source:c:\users\janhr\desktop\svašta\iv3\minesweeper\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
